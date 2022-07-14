@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e2bffae","path":"/zh/wiki/pow/","title":"\u6587\u7AE0\u767E\u79D1","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"zh/wiki/pow/README.md"}');export{e as data};
