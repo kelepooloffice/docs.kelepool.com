@@ -6,7 +6,7 @@
 * 点击左侧菜单“账户设置”，确定您要配置的币种，点击“算力报警”
 * 设置监控间隔时间、算力跌幅、离线数量。输入报警联系人信息，填写邮箱或手机。当算力跌幅或离线数量达到设置的阈值，系统将发送报警提醒。
 
-![](<../../.gitbook/assets/image (28).png>)
+![](../../.gitbook/assets/image.png)
 
 ![](<../../.gitbook/assets/image (98).png>)
 
@@ -16,10 +16,10 @@
 * 设置监控间隔时间、算力跌幅、离线数量，输入报警联系人信息，填写邮箱或手机。当算力跌幅或离线数量达到设置的阈值，系统将发送报警提醒。\
 
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../.gitbook/assets/image (76).png>)
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (75).png>)
