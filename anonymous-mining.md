@@ -94,7 +94,7 @@ The miner name filling mode is: the **on-chain address filled in when the mining
 * **Filling in the mining address and miner name is very important** . If you fill in the wrong one, it may lead to loss of income. If you are not sure, please contact customer service;
 * Please note that some mining machines do not support miner names to fill in the on-chain address, anonymous mining cannot be used, which may cause the mining machine to work abnormally. Users are required to sign-up and login for mining through mailboxes and other channels. You can participate in the BTC mining tutorial
 
-![](https://xcvq3u8soi.feishu.cn/space/api/box/stream/download/asynccode/?code=NzFjMjk2NjE3YWFkZDk0MTI0M2UwODE4NWU2ZmE4YTlfdjJ6NTEyMzZBQVV5SGxGc0FHZWhxS1BOQWprYUllTnlfVG9rZW46Ym94Y25hTUl5S0xweTJraUhnUjZYU0o5ekFkXzE2NTU5NjcwODA6MTY1NTk3MDY4MF9WNA)The combination of anonymous address and number (separated by.) is the miner name
+The combination of anonymous address and number (separated by.) is the miner name
 
 #### 4. Fill in the payment address
 
