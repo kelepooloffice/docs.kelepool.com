@@ -25,4 +25,5 @@
 
 ***
 
-* [📌Terms of Service](terms-of-service.md)
+* [📌Terms](terms/README.md)
+  * [Terms of Service](terms/terms-of-service.md)
