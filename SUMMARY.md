@@ -22,4 +22,7 @@
 * [Beginner guide](staking/beginner-guide/README.md)
   * [Stake Amount ≥ 32 ETH](staking/beginner-guide/stake-amount-32-eth.md)
   * [Stake Amount ＜ 32 ETH](staking/beginner-guide/stake-amount-32-eth-1.md)
-* [📌Terms of Service](staking/terms-of-service.md)
+
+***
+
+* [📌Terms of Service](terms-of-service.md)
