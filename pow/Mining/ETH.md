@@ -32,6 +32,7 @@ description: 本指南针对通过注册矿池账户进行挖矿的用户，如�
 
 **常用ETH挖矿软件：**
 
+* AceMiner：[<mark style="color:blue;">**https://www.aceminer.io/**</mark>](https://www.aceminer.io/)<mark style="color:blue;">****</mark>
 * Hiveon：[**`https://hiveon.com/`**](https://hiveon.com/)**``**
 * 开源矿工：[**`http://dl.ntminer.top/`**](http://dl.ntminer.top/)**``**
 * MinerOS：[**`https://mineros.info/`**](https://mineros.info/)**``**
