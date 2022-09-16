@@ -23,6 +23,7 @@
   * [🪙 CKB挖矿教程](pow/Mining/CKB.md)
   * [🪙 STC挖矿教程](pow/Mining/STC.md)
   * [🪙 ETC挖矿教程](pow/Mining/ETC.md)
+  * [🪙 RVN 挖矿教程](pow/Mining/RVN.md)
 * [💰 其他挖矿工具教程](pow/bixin/README.md)
   * [HiveOS挖矿教程](pow/bixin/hiveos-wa-kuang-jiao-cheng.md)
   * [一文读懂STC-BOX挖矿教程](pow/bixin/stcbox1.md)
