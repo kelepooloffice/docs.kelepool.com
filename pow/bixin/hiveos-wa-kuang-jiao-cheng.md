@@ -38,7 +38,7 @@ _若使用矿梯，此处地址填写矿梯种配置好的IP地址，_[_**矿梯
 
 <figure><img src="../../.gitbook/assets/image(294).png" alt=""><figcaption><p>选择挖矿软件</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption><p>创建飞行表</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291) (1).png" alt=""><figcaption><p>创建飞行表</p></figcaption></figure>
 
 飞行表创建成功
 
