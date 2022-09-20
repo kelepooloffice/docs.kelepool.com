@@ -90,7 +90,7 @@ DNS的作用即让我们记住zhenhao.com即可访问至192.168.176.19。
 
 （3）“手动配置DNS”选项
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (104) (1).png>)
 
 \*其他路由器界面略有不同，找到“手动配置DNS”选项进行设置即可。
 
@@ -131,7 +131,7 @@ DNS的作用即让我们记住zhenhao.com即可访问至192.168.176.19。
 
 修改时矿机后台会有默认IP、子网掩码、网关和DNS，修改DNS为**推荐**即可，也可参考电脑网络连接详细信息。（“设置”—“网络和Internet”—“WLAN”/”以太网“—”网络和共享中心—“连接”—“详细信息”）
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (102) (1).png>)
 
 （4）点击”Save\&Apply“。
 

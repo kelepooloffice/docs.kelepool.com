@@ -24,7 +24,7 @@
 
 解压 IBSMK Setup 1.8.5.rar，并安装软件，打开如下：
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (100) (1).png>)
 
 ### 2.3 准备读卡器和 SD 卡 <a href="#zafx4" id="zafx4"></a>
 
