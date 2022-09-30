@@ -34,11 +34,9 @@ description: 本教程适合各个币种
 
 使用矿梯软件代理能让大陆用户的矿机隐藏踪迹、更加安全，同时提升挖矿算力，非常建议国内用户通过矿梯来连接矿机与矿池。
 
-**矿梯官网：**[**https://minladder.com/**](https://minladder.com/)****
+**矿梯官网：**[**https://kuangticcc.vip**](https://kuangticcc.vip)****
 
-**矿梯下载地址：**[**https://pay.minladder.com/#/visitorsPage?redirect=%2Faccount**](https://pay.minladder.com/#/visitorsPage?redirect=%2Faccount)
-
-![下载矿梯，选择第一个](<../.gitbook/assets/image (213).png>)
+****![](<../.gitbook/assets/image (100).png>)****
 
 1.官网下载后解压，点击exe文件运行矿梯
 

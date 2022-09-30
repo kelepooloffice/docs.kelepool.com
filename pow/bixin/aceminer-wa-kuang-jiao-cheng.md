@@ -158,5 +158,5 @@ sudo apt install ./AceMiner-latest-amd64-linux-standard.deb
 
 启用自动更新后，系统将每隔一段时间自动检查版本，若发现新版本将会自动更新。
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100) (2).png" alt=""><figcaption></figcaption></figure>
 
