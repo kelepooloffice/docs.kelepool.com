@@ -36,7 +36,7 @@ description: 本教程适合各个币种
 
 **矿梯官网：**[**https://kuangticcc.vip**](https://kuangticcc.vip)****
 
-****![](<../.gitbook/assets/image (100).png>)****
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1.官网下载后解压，点击exe文件运行矿梯
 
@@ -81,20 +81,20 @@ description: 本教程适合各个币种
 
 ![挖矿软件要求的矿池URL填写本地IP+本地端口](<../.gitbook/assets/image (72).png>)
 
-#### **ETH矿机设置**
+#### **ETC矿机设置**
 
 以开源矿工为例
 
-1. 打开软件，选择主币为**ETH**，内核按照实际安装在矿机里的**内核软件**选择，主矿池选择**矿梯**，如选项中没有矿梯可以自己添加，**填好钱包**（如是邮箱注册用户这里填子账户名，匿名挖矿/钱包地址挖矿用户填写链上地址），**填好矿机名，**点击“尚未开始”就可以等待连接挖矿了。 其他类似软件大同小异，都是在矿梯设置好矿池币种开启代理的前提下，在软件中输入矿梯地址等信息连接挖矿
+1. 打开软件，选择主币为**ETC**，内核按照实际安装在矿机里的**内核软件**选择，主矿池选择**矿梯**，如选项中没有矿梯可以自己添加，**填好钱包**（如是邮箱注册用户这里填子账户名，匿名挖矿/钱包地址挖矿用户填写链上地址），**填好矿机名，**点击“尚未开始”就可以等待连接挖矿了。 其他类似软件大同小异，都是在矿梯设置好矿池币种开启代理的前提下，在软件中输入矿梯地址等信息连接挖矿
 2. 需注意的是，和很多worker/矿工名需要填写“**矿池账户.矿机编号**”模式的软件不一样，开源矿工将两者分开，**钱包即矿池账号/用户名**，**矿机名则是矿机编号**。
 
-![](<../.gitbook/assets/image (73).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3.如需手动添加矿梯地址，则选择**主矿池**，点击**添加**，填写矿池名称为**矿梯，矿池地址为stratum+tcp://矿梯首页的本地IP+本地端口的模式，由于个人情况不一样，请以自己设备上显示的参数为准，图示仅供参考。**
 
-![](<../.gitbook/assets/image (275).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (270).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/image (282).png>)
 

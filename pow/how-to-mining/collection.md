@@ -23,6 +23,6 @@
 
 ![按要求填写地址](<../../.gitbook/assets/image (21).png>)
 
-![ 签名](<../../.gitbook/assets/image (1).png>)
+![ 签名](<../../.gitbook/assets/image (1) (1).png>)
 
 ![保存成功](<../../.gitbook/assets/image (97).png>)
