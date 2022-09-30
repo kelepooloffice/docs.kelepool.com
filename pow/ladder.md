@@ -92,9 +92,9 @@ description: 本教程适合各个币种
 
 3.如需手动添加矿梯地址，则选择**主矿池**，点击**添加**，填写矿池名称为**矿梯，矿池地址为stratum+tcp://矿梯首页的本地IP+本地端口的模式，由于个人情况不一样，请以自己设备上显示的参数为准，图示仅供参考。**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/image (282).png>)
 
